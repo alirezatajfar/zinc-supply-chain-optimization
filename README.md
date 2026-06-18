@@ -1,5 +1,6 @@
 # zinc-supply-chain-optimization
 MILP model for optimizing Iran's zinc concentrate supply chain with reverse logistics and sensitivity analysis — built with Python, Pyomo, and HiGHS
+![Optimised Supply Chain Network](network_map.png)
 # Zinc Concentrate Supply Chain Optimization
 
 A multi-period deterministic Mixed-Integer Linear Program (MILP) for optimizing Iran's zinc concentrate supply chain, built with Python, Pyomo, and HiGHS.
@@ -8,7 +9,6 @@ A multi-period deterministic Mixed-Integer Linear Program (MILP) for optimizing 
 **Context:** Bachelor's thesis project
 
 ---
-![Optimised Supply Chain Network](network_map.png)
 
 ## Problem Overview
 
