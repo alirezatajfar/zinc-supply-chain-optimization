@@ -9,7 +9,9 @@ A multi-period deterministic Mixed-Integer Linear Program (MILP) for optimizing 
 
 ---
 ![Optimised Supply Chain Network](network_map.png)
-
+*Base case solution showing optimised routing across mines, warehouses, 
+smelters, and export ports — including truck/rail flows, jarosite reverse 
+logistics, and renewable energy installations.*
 ## Problem Overview
 
 The model minimizes total supply chain cost across 6 bi-monthly periods, covering:
