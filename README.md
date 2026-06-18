@@ -8,6 +8,7 @@ A multi-period deterministic Mixed-Integer Linear Program (MILP) for optimizing 
 **Context:** Bachelor's thesis project
 
 ---
+![Optimised Supply Chain Network](network_map.png)
 
 ## Problem Overview
 
